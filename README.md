@@ -65,23 +65,18 @@ After clicking the "New Quote Button"
 
 This displays about  why we need BhagavadGita in our life 
 
-
-
-![Screenshot (205)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/fb115b09-1952-47e3-bb90-e985b27e1a72)
-
-
-
+![Screenshot (222)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/3dd7530d-12a6-4bb6-8f0d-d9d947a5a37d)
 
 
 ### Chapters in BhagavadGita
 
 There  are total 18 Chapters in this BhagavadGita.In this section, each chapter of the Bhagavad Gita is briefly explained. You can click on the "Know More" button to get detailed information about a specific chapter. This includes an in-depth explanation of the chapter and the verses associated with it.
 
-![Screenshot (206)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/1a47c78c-9766-44d6-a9f7-a0e2f353654e)
+![Screenshot (223)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/702c174f-2b4e-46a9-8d26-4d8c2a6355fa)
 
 
-![Screenshot (207)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/9003f93b-eacb-4539-8f0a-6810c0787107)
 
+![Screenshot (207)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/8b013c6b-b5ff-4f65-9565-49d3845f32eb)
 
 
 After clicking on "Know more" button to see the detailed description about the Chapter 1   and  Chapter 2  for example
@@ -95,9 +90,7 @@ After clicking on "Know more" button to see the detailed description about the C
 
 I included my testimony about the BhagavadGita's preachings in this web page
 
-
-
-![Screenshot (208)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/d3251021-8f57-4573-a729-90f71b66596e)
+![Screenshot (224)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/d116bfd9-e18c-438e-8435-a10b77edf598)
 
 
 ### Footer
@@ -105,7 +98,9 @@ I included my testimony about the BhagavadGita's preachings in this web page
 Footer has my details  and link to my social  profiles
 
 
-![Screenshot (209)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/c9ff39c3-abd3-4e83-89a6-7e11b5b90c48)
+![Screenshot (225)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/d4e80fce-3819-45f9-bfbb-6402d42526f0)
+
+
 
 
 
