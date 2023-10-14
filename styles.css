@@ -414,7 +414,6 @@ body {
   border-color: #000000;
 }
 
-
 @media (max-width: 480px) {
   .right-half {
     margin-top: 10px; 
@@ -428,8 +427,53 @@ body {
   .testimonial .testimonial-content {
     margin-top: 20px; 
   }
-}
 
+  .half-container {
+    flex-direction: column;
+    align-items: stretch;
+    margin-top: 20px;
+  }
+
+  .left-half, .right-half {
+    margin-top: 20px;
+    margin-right: 0;
+  }
+
+  .navbar-brand, .nav-link {
+    font-size: 20px; 
+  }
+
+  .quote-section {
+    padding: 10px;
+    max-width: 90%;
+  }
+
+  .quote-section h2 {
+    font-size: 1.5em;
+  }
+
+  .quote-section .quote, .quote-section .author {
+    font-size: 1em;
+  }
+
+  .quote-section button {
+    padding: 0.8em 1.5em;
+    font-size: 1em;
+  }
+
+  .new-quote-button {
+    padding: 0.3em 1em;
+    font-size: 0.8em;
+  }
+
+  .card h4 {
+    font-size: 18px;
+  }
+
+  .card p {
+    font-size: 14px;
+  }
+}
 
 
 
