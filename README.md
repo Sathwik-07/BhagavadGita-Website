@@ -38,25 +38,28 @@ It is used to display random quotes, handle user interactions (like button click
 
 At the top of the website, there is a navigation bar. This navigation bar includes details about the creator of the website and various other options. If a user clicks on any of these options, they will be taken to the respective webpage associated with that option.
 
-![Screenshot (203)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/0e403976-addd-47fc-a579-fdbe173ee42b)
+
+![Screenshot (218)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/bb5d236b-2b5d-4e05-a720-fd22878c5a6f)
 
 
 ### Random Quotes
 
 In this "Random Quotes" section, whenever the user clicks the "New Quote" button, a different quote from the Bhagavad Gita will automatically and randomly appear, providing a fresh and inspiring insight with each click.
 
+![Screenshot (219)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/64ac4647-7a10-4567-89ca-a44a241d778b)
 
-![Screenshot (204)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/9bfa9ea6-6165-40c4-8288-0679e2b5b8ec)
+
 
 After clicking the "New Quote Button"
 
+![Screenshot (210)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/2e075e95-7d95-47dc-92c5-51fd02f1e2ff)
 
-![Screenshot (210)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/36c70842-a210-4346-aa74-75582990fdfd)
+
+![Screenshot (211)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/79c49291-6d94-4c59-b637-b19b61c6a9a4)
 
 
-![Screenshot (211)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/0227e5d3-07be-48a2-9315-7075b2f4ef28)
+![Screenshot (212)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/02bf9747-16d0-407f-80dd-7a5179d54a57)
 
-![Screenshot (212)](https://github.com/Sathwik-07/BhagavadGita-Website/assets/130444732/11413cd2-f913-43d6-9437-71158c826918)
 
 ### Importance of BhagavadGita
 
