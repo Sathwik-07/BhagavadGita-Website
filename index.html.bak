@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhagavath Geetha Quotes</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-Jz6GJ5fv0sHbigrWz2dElxujk3gkmZaPSACtA1q3u78s0AZtZacwJt2aAuyJlfa" crossorigin="anonymous">
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+	
+
+</head>
+
+<body bgcolor="white">
+
+    <nav class="navbar navbar-expand-lg navbar-lite" style="background-color: #FFC0CB;">
+        <div class="container">
+            <a class="navbar-brand" href="#">Created by Challa  Sathwik</a>
+           
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.yogapedia.com/definition/4961/bhagavad-gita">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://bhagavadgita.io/bhagavad-gita-quotes">Quotes</a>
+                    </li>
+					<li class="nav-item">
+                        <a class="nav-link" href="https://gitasanjeevani.com/blogs-in-english/">Blogs</a>
+                    </li>
+					<li class="nav-item">
+                        <a class="nav-link" href="https://www.holy-bhagavad-gita.org/index">Chapters</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="half-container">
+        <section class="left-half">
+            <div class="feather-container">
+                <img src="images\resize-1689868522116905796peacockfeatherpngdesigns0.png" class="feather">
+            </div>
+            <div class="flute-container">
+                <img src="images\download.png" class="flute">
+            </div>
+        </section>
+
+        <section class="right-half">
+            <div class="text-container">
+                <h1>Bhagavad Gita</h1>
+                <p>The Song of God</p>
+                <p style="font-size: 23px;">
+                    Bhagavad Gita is a divine song imparted by Lord Krishna to Arjuna, guiding him on the path to a righteous and fulfilling human life.
+                    It provides profound insights into leading a virtuous life and fulfilling one's duties with unwavering devotion.
+                </p>
+            </div>
+        </section>
+    </div>
+
+<section style="height: 30%;">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 aligned-content" >
+         <h2 style="margin-top: 70px; margin-left: 90px;">I am the king of this Universe</h2>
+
+        </div>
+        <div class="col-lg-6" style="margin-top: -40px";>
+          <img src="images\little_krishna_-cartoon.jpg" alt="Little Krishna Cartoon" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </section>
+    
+ 
+<section class="quote-section">
+  <div class="center-content">
+    <h2>Quote of the Day</h2>
+    <p class="quote">"Your quote here."</p>
+    <p class="author">— Author Name</p>
+    <button id="new-quote" class="new-quote-button">New Quote</button>
+  </div>
+</section>
+
+	<script>
+       
+        displayRandomQuote();
+
+        document.getElementById('new-quote').addEventListener('click', displayRandomQuote);
+    </script>
+
+	
+	
+
+    <section style="height: 100%; margin-bottom: 100px;">
+    <div class="container">
+        <h2 style="margin-top: 120px;">Discover the purpose of your life by Bhagavad Gita!</h2>
+        <div class="row">
+            <div class="col-lg-6 d-flex align-items-center justify-content-center">
+                <img src="images\06a9ccc351943f255d16563ea3258a35.png" alt="Hand with flute" class="mt-5 img-fluid mt-lg-0">
+            </div>
+ <div class="col-lg-6">
+    <div class="row">
+        <div class="col-lg-6">
+            <div class="p-3 mt-5 text-1 card">
+                <div class="text">
+                    <h4>Understanding the Self and Reality:</h4>
+                    <p>It teaches the nature of the self (atman) and the broader reality (Brahman). Understanding our true nature beyond the physical body and mind is crucial for spiritual growth.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="p-3 mt-5 text-2 card">
+                <div class="text">
+                    <h4>Wisdom for Daily Living :</h4>
+                    <p>The Gita provides practical wisdom and advice for day-to-day living, making conscious choices that align with one's values.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="p-3 mt-5 text-3 card">
+                <div class="text">
+                    <h4>Connecting the Mind and Soul :</h4>
+                    <p>It conveys the essence of achieving harmony and alignment among the heart, mind, and soul in the pursuit of spiritual enlightenment and fulfillment.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="p-3 mt-5 text-4 card">
+                <div class="text">
+                    <h4>Control of Mind and Senses :</h4>
+                    <p>The Gita discusses the significance of controlling the mind and senses, emphasizing discipline and mastery over one's thoughts and actions.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</section>
+
+<div>
+
+
+<center style="margin-bottom: 50px;">
+  <h2>List of Chapters in Bhagavad Gita</h2>
+</center>
+
+
+</div>
+
+	<section class="chapters">
+    <div class="container">
+        <div class="row">
+           
+            <div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\download.jpeg" class="card-img-top" alt="Chapter 1 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 1: Arjuna Vishada Yoga</h3>
+                        <p class="card-text">Arjuna is conflicted on the battlefield, torn between his duty as a warrior and his moral dilemma. He seeks guidance from Lord Krishna.</p>
+                        <a href="https://bhagavadgita.io/chapter/1" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+
+           
+            <div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\1449-70.jpg" class="card-img-top" alt="Chapter 2 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 2: Sankhya Yoga</h3>
+                        <p class="card-text">Lord Krishna imparts wisdom on the nature of the soul, duty, and emphasizing the importance of fulfilling one's duty without attachment to outcomes.</p>
+                        <a href="https://bhagavadgita.io/chapter/2" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+
+           
+            <div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\download (2).jpeg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 3: Karma Yoga</h3>
+                        <p class="card-text"> Krishna teaches the significance of performing one's duty selflessly and with dedication, emphasizing the importance of action without selfish desires.</p>
+                        <a href="https://bhagavadgita.io/chapter/3" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\download (3).jpeg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 4: Jgnana Yoga</h3>
+                        <p class="card-text">This chapter delves the relationship between knowledge, action, and renunciation, highlighting the necessity of aligning action with wisdom.</p>
+                        <a href="https://bhagavadgita.io/chapter/4" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\meditation.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 5: Karma Sanyāsa Yoga</h3>
+                        <p class="card-text">Lord Krishna explains the concept of renunciation, stressing that true renunciation is not mere abandonment of action but detachment from desires and ego.</p>
+                        <a href="https://bhagavadgita.io/chapter/5" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\x976442_Jnana,P20Yoga.jpg.pagespeed.ic.ecliA8aOF_.webp" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 6: Dhyāna Yoga</h3>
+                        <p class="card-text">This chapter elucidates the practice of meditation, focusing on achieving a balanced and disciplined mind through yogic practices.</p>
+                        <a href="https://bhagavadgita.io/chapter/6" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\krishna-arjuna.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 7: Vignana Yoga</h3>
+                        <p class="card-text">This explains the difference between the divine and demonic qualities and emphasizes the importance of seeking true knowledge to attain spiritual liberation.</p>
+                        <a href="https://bhagavadgita.io/chapter/7" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\devotee praying.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 8: Akṣhara Parabrahma Yoga</h3>
+                        <p class="card-text">This chapter explores the nature of the eternal, imperishable reality and the process of attaining union with it through devotion and meditation.</p>
+                        <a href="https://bhagavadgita.io/chapter/8" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\744.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 9: Rāja Vidyā Yoga</h3>
+                        <p class="card-text">In this Krishna reveals the profound knowledge of devotion, emphasizing the supreme and confidential wisdom of spiritual realization.</p>
+                        <a href="https://bhagavadgita.io/chapter/9" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\1_IwlN7l8uBnXltYxOFfAiFQ.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 10: Vibhūti Yoga</h3>
+                        <p class="card-text"> Krishna describes His divine manifestations and explains the limitless manifestations of His power and opulence in the world.</p>
+                        <a href="https://bhagavadgita.io/chapter/10" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\download (1).jpeg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 11: Viśhwarūpa Sandarśhana Yoga</h3>
+                        <p class="card-text">Arjuna is granted a divine vision of Lord Krishna's universal form, revealing the cosmic grandeur and omnipresence of the Supreme.</p>
+                        <a href="https://bhagavadgita.io/chapter/11" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\Bhaktiyoga_813b32d6-30b9-4af4-8806-82213747593d.webp" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 12 : Bhakthi Yoga</h3>
+                        <p class="card-text">This chapter focuses on the significance of devotion and surrender to God, elaborating on different forms of spiritual practice and their merits.</p>
+                        <a href="https://bhagavadgita.io/chapter/12" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\unnamed.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 13: Kṣhetra Kṣhetrajña Vibhāga Yoga</h3>
+                        <p class="card-text"> Krishna explains the distinction between the physical body and the soul , elucidating the nature of the material and spiritual worlds.</p>
+                        <a href="https://bhagavadgita.io/chapter/13" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\Lord-Krishna-and-Arjuna-1.webp" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 14: Guṇa Traya Vibhāga Yoga</h3>
+                        <p class="card-text">The three gunas (qualities) - sattva (goodness), rajas (passion), and tamas (ignorance), and their influence on human behavior and spiritual evolution.</p>
+                        <a href="https://bhagavadgita.io/chapter/14" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\Gita15_800.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 15: Puruṣhottama Yoga</h3>
+                        <p class="card-text">This chapter describes the eternal and transcendental nature of the Supreme Being, illustrating the metaphor of the eternal tree of life.</p>
+                        <a href="https://bhagavadgita.io/chapter/15" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\images.jpeg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 16: Daivāsura Sampad Vibhāga Yoga</h3>
+                        <p class="card-text">In this Krishna elaborates on the divine and demonic qualities within individuals and their influence on one's actions.</p>
+                        <a href="https://bhagavadgita.io/chapter/16" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\sculpture-wood-statue-krishna-arjuna-35.webp" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 17: Śhraddhā Traya Vibhāga Yoga</h3>
+                        <p class="card-text">In this lordKrishna discusses the different types of faith and their corresponding actions, elucidating the importance of faith in spiritual practices.</p>
+                        <a href="https://bhagavadgita.io/chapter/16" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+			
+			
+			<div class="col-md-4">
+                <div class="card" style="width: 250px;">
+                    <img src="images\Gita18.jpg" class="card-img-top" alt="Chapter 3 Image" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h3 class="card-title">Chapter 18: Moksha Sansaya Yoga</h3>
+                        <p class="card-text">This final chapter addresses renunciation, duty, and liberation, guiding individuals on the path towards spiritual enlightenment and ultimate freedom.</p>
+                        <a href="https://bhagavadgita.io/chapter/18" class="btn btn-primary">Know More</a>
+                    </div>
+                </div>
+            </div>
+
+            
+
+        </div>
+    </div>
+</section>
+	
+	<div class="testimonial">
+	<center>
+  <h3 style="font-size: 36px;">
+  <span style="color:blue;">My</span>
+  <span style="color: red;">Testimony!</span>
+</h3>
+
+</center>
+
+
+      <div class="row">
+	  
+        <div class="col-lg-6">
+          <img src="images\my_image.jpg" alt="Person Image" class="img-fluid testimonial-image">
+        </div>
+        <div class="col-lg-6">
+          <div class="testimonial-content">
+            <p>Reading Bhagavad Gita helped me find enlightenment.Its timeless wisdom changed my view on life and spirituality. It showed me how to lead a spiritually fulfilling life, guiding me on self-understanding, duty, inner peace, purpose, and discipline. It's a gem guiding my spiritual journey, connecting me deeply with myself and the divine.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+<div class="container" style="padding: 50px; background-color: #f9f9f9; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); max-width: 1000px; margin: 0 auto; display: flex; flex-wrap: wrap; margin-top:30px; ">
+  <div class="col-lg-6" style="width: 50%; padding: 20px; box-sizing: border-box;">
+    <h1 style="margin-top: 80px; font-size: 36px; text-align: center; font-weight: bold; color: #3498db;">
+      <font color="blue"><h1>Iam the</h1></font>  <font color="red"><h1>Boss of this Universe!</h1></font>
+    </h1>
+  </div>
+  <div class="col-lg-4" style="width: 100%; padding: 20px; box-sizing: border-box; display: flex; align-items: center;">
+    <img src="images\krishna-specticals.jpg" alt="Little Krishna Cartoon" class="img-fluid" style="width: 150%; height: auto; border-radius: 0px;">
+  </div>
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+
+  <section class="footer">
+    <div class="credit" style="background-color: rgb(71, 70, 70); color: #fff; padding: 10px; border: 1px solid #ccc; display: inline-block; border-radius: 5px; margin: 10px 0;">
+      Created by  <span style="font-weight: bold; color:white">Challa Sathwik</span> | Copyright 2023 all rights reserved.
+    </div>
+
+  <div class="rounded-social-buttons">
+                    <a class="social-button twitter" href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a class="social-button linkedin" href="https://www.linkedin.com/in/sathwik07/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a class="social-button youtube" href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+                    <a class="social-button instagram" href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a class="social-button github" href="https://github.com/Sathwik-07" target="_blank"><i class="fab fa-github"></i></a>
+                </div>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+
+</section>
+
+    <script src="script.js"></script>
+</body>
+</html>
