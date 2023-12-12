@@ -469,74 +469,82 @@ body {
     font-size: 14px;
   }
 }
+/* Your existing CSS */
 
-@media (max-width: 480px) {
+/* Media Query for Mobile Devices */
+@media (max-width: 767px) {
   body {
-    padding: 20px;
-  }
-
-  .navbar-brand,
-  .nav-link {
-    font-size: 20px;
-  }
-
-  .right-half {
-    margin-top: 10px;
-    margin-right: 10px;
-  }
-
-  .testimonial .testimonial-image {
-    margin-left: 0;
-  }
-
-  .testimonial .testimonial-content {
-    margin-top: 20px;
+    padding: 10px; /* Adjust the padding for better mobile viewing */
+    line-height: 1.4; /* Enhance readability on smaller screens */
   }
 
   .half-container {
-    flex-direction: column;
-    align-items: stretch;
-    margin-top: 20px;
+    flex-direction: column; /* Stack halves vertically on smaller screens */
+    margin-top: 50px; /* Reduce the margin between sections */
   }
 
   .left-half,
   .right-half {
-    margin-top: 20px;
-    margin-right: 0;
+    margin-top: 20px; /* Adjust top margin for smaller screens */
+  }
+
+  .right-half {
+    margin-right: 0; /* Remove right margin for smaller screens */
+  }
+
+  .testimonial .testimonial-image {
+    width: 250px; /* Decrease image size for better fit on mobile */
+    height: 250px;
+  }
+
+  .testimonial .testimonial-content {
+    margin-right: 0; /* Remove margin for better mobile layout */
   }
 
   .quote-section {
-    padding: 10px;
-    max-width: 90%;
+    max-width: 90%; /* Adjust width for better fit on mobile */
   }
 
-  .quote-section h2 {
-    font-size: 1.5em;
-  }
-
+  /* Adjust text size for better readability on mobile */
+  .quote-section h2,
   .quote-section .quote,
   .quote-section .author {
-    font-size: 1em;
+    font-size: 1.2em;
   }
 
-  .quote-section button {
-    padding: 0.8em 1.5em;
-    font-size: 1em;
+  /* Other adjustments for smaller screens */
+  .text-container h1 {
+    font-size: 7vw; /* Increase font size for better visibility */
   }
 
-  .new-quote-button {
-    padding: 0.3em 1em;
-    font-size: 0.8em;
+  /* Adjustments for card components */
+  .card {
+    width: 90%; /* Adjust width for better fit on mobile */
   }
 
-  .card h4 {
-    font-size: 18px;
+  .card-title {
+    font-size: 18px; /* Adjust title font size for better readability */
   }
 
-  .card p {
-    font-size: 14px;
+  .card-text {
+    font-size: 14px; /* Adjust text font size for better readability */
+  }
+
+  /* Adjust footer padding for smaller screens */
+  .footer {
+    padding: 2rem 0;
+  }
+
+  /* Adjust social buttons for better visibility on mobile */
+  .rounded-social-buttons .social-button {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 1.2rem;
+    border-radius: 1.25rem;
+    line-height: 2em;
   }
 }
+
 
 
 
