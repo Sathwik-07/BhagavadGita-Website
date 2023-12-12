@@ -469,78 +469,65 @@ body {
     font-size: 14px;
   }
 }
-/* Your existing CSS */
-
-/* Media Query for Mobile Devices */
 @media (max-width: 767px) {
   body {
-    padding: 10px; /* Adjust the padding for better mobile viewing */
-    line-height: 1.4; /* Enhance readability on smaller screens */
+    padding: 10px;
+    line-height: 1.4;
   }
 
   .half-container {
-    flex-direction: column; /* Stack halves vertically on smaller screens */
-    margin-top: 50px; /* Reduce the margin between sections */
+    flex-direction: column;
+    margin-top: 50px;
   }
 
   .left-half,
   .right-half {
-    margin-top: 20px; /* Adjust top margin for smaller screens */
+    margin-top: 20px;
   }
 
   .right-half {
-    margin-right: 0; /* Remove right margin for smaller screens */
+    margin-right: 0;
   }
 
   .testimonial .testimonial-image {
-    width: 250px; /* Decrease image size for better fit on mobile */
+    width: 250px;
     height: 250px;
   }
 
   .testimonial .testimonial-content {
-    margin-right: 0; /* Remove margin for better mobile layout */
+    margin-right: 0;
   }
 
   .quote-section {
-    max-width: 90%; /* Adjust width for better fit on mobile */
+    max-width: 90%;
   }
 
-  /* Adjust text size for better readability on mobile */
   .quote-section h2,
   .quote-section .quote,
   .quote-section .author {
     font-size: 1.2em;
   }
 
-  /* Other adjustments for smaller screens */
   .text-container h1 {
-    font-size: 7vw; 
+    font-size: 7vw;
   }
 
-  /* Adjustments for card components */
   .card {
-  width: 250px;
-  margin: 10px; 
-  transition: transform 0.3s ease; 
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
-  border-radius: 8px; 
-  overflow: hidden; 
+    width: 90%;
   }
 
   .card-title {
-    font-size: 18px; /* Adjust title font size for better readability */
+    font-size: 18px;
   }
 
   .card-text {
-    font-size: 14px; /* Adjust text font size for better readability */
+    font-size: 14px;
   }
 
-  /* Adjust footer padding for smaller screens */
   .footer {
     padding: 2rem 0;
   }
 
-  /* Adjust social buttons for better visibility on mobile */
   .rounded-social-buttons .social-button {
     width: 2.5rem;
     height: 2.5rem;
