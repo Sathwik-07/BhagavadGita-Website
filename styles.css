@@ -514,12 +514,17 @@ body {
 
   /* Other adjustments for smaller screens */
   .text-container h1 {
-    font-size: 7vw; /* Increase font size for better visibility */
+    font-size: 7vw; 
   }
 
   /* Adjustments for card components */
   .card {
-    width: 90%; /* Adjust width for better fit on mobile */
+  width: 250px;
+  margin: 10px; 
+  transition: transform 0.3s ease; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  border-radius: 8px; 
+  overflow: hidden; 
   }
 
   .card-title {
